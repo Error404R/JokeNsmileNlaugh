@@ -100,6 +100,6 @@ You should pass the procedure of publishing your extension in Google Web Store. 
    
 | Profile | Name | Enrollment Number | 
 | :-------------: | :-------------: | ------------- |
-| <img src="ss/raunak.jpg" width='60' height='80'> | Raunak Rathore | IIT2019222 
+| <img src="ss/raunak.jpg" width='45' height='60'> | Raunak Rathore | IIT2019222 
 
 <hr>
